@@ -24,6 +24,7 @@ Execute the program
 
 
 # CODE
+```
  <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -124,11 +125,11 @@ Execute the program
 </table>
 </body>
 </html>
-
+```
 # OUPUT : 
 
 ![](/time.png)
 
 ## RESULT :
 
-The program for creating slot timetable is completed successfully
+The program for creating slot timetable is completed successfully 
